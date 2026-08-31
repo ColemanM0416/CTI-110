@@ -1,0 +1,46 @@
+# peanut butter Sandwich
+
+
+## Overview
+-2 slices of bread 
+-one jar of peanut butter
+-one butter knife
+-one napkin
+-one plate
+
+## Assumptions
+-robot's hands are empty
+-all items are placed individually in front of robot in an assembly line formation
+-robot is starting in a neutral standing position
+=bread is not in a bag. bread is already placed within the assembly line formation stacked together. 
+-jar of peanut butter should be opened after twisting top.
+
+## Instructions
+1. with one hand, gently grab a single slice of bread.
+2. place the single slice of bread in hand onto the plate. 
+3. release the bread from hand that is holding the bread. 
+4. pick up jar of peanut butter with hand one hand around center of cylinder container. 
+5. place other hand on top of peanut butter jar lid. 
+6. hold center of jar firmly with hand that is placed there.
+7. twist top of jar to the left with hand that is placed there.
+8. repeat until top is removed.
+9. place top down on workspace.
+10. remove protective seal if one is in place.
+11. with your free hand, robot will pick up the butter knife.
+12. turn the butter knife in hand until blade is pointed down.
+13. slowly insert knife into jar of peanut butter.
+14. stop when tip of the butter knife reaches the bottom of the jar.
+15. withdraw butter knife from the jar. 
+16. rotate wrist until knife is held in horizontal position
+17. lower knife to the slice of breaad that is already placed on the plate until it makes contact.
+18. move knife around until peanut butter is on the bread.
+19. place knife on the napkin.
+20. with one hand, retrieve remaining slice of bread. 
+21. place bread in hand on top of other slice of bread on plate. 
+
+
+## Done When
+-bread is stacked on top of one another with peanut butter in between.
+-sandwitch is on the plate
+
+
