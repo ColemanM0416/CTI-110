@@ -44,10 +44,11 @@ else:
     else:
         average = 0
         grade = "N/A"
-        
+
+ #create display table  
     print()
     print("--------------Results-----------------")
     print(f"{'Lowest Score':<20}: {lowest_score:.1f}")
-    print(f"{'Modified List':<20}: {', '.join(f'{score:.1f}' for score in modified_list)}")
+    print(f"{'Modified List':<20}: [{', '.join(f'{score:^6.1f}' for score in modified_list)}]")
     print(f"{'Scores Average:':<20}: {average:.2f}")
     print(f"{'Grade:':<20}: {grade}")
